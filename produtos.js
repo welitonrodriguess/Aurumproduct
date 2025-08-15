@@ -26,6 +26,36 @@ export const PRODUCTS = [
     brand: "Aurum Hair",
     desc: "Reconstrução e brilho imediato para todos os tipos de cabelo.",
     img: "https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    id: 3,
+    name: "Kit Barbearia Premium",
+    category: "Barbearia",
+    price: 199.9,
+    oldPrice: 249.9,
+    brand: "Aurum Men",
+    desc: "O kit completo para cuidados masculinos com produtos de alta performance.",
+    img: "https://images.unsplash.com/photo-1600585154320-5c5f5c5f5c5f?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    id: 4,
+    name: "Paleta de Sombras Nude",
+    category: "Maquiagem",
+    price: 129.9,
+    oldPrice: 159.9,
+    brand: "Aurum Beauty",
+    desc: "Cores neutras e sofisticadas para looks versáteis.",
+    img: "https://images.unsplash.com/photo-1600585154320-5c5f5c5f5c5f?q=80&w=1200&auto=format&fit=crop"
+  },
+  {
+    id: 5,
+    name: "Perfume Floral 100ml",
+    category: "Perfumaria",
+    price: 159.9,
+    oldPrice: 199.9,
+    brand: "Aurum Fragrances",
+    desc: "Uma fragrância floral envolvente para todas as ocasiões.",
+    img: "https://images.unsplash.com/photo-1600585154320-5c5f5c5f5c5f?q=80&w=1200&auto=format&fit=crop"
   }
-  // Adicione mais produtos aqui seguindo o mesmo padrão
+
 ];

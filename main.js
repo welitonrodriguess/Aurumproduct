@@ -60,7 +60,7 @@ function renderGrid() {
       </div>
       <div class="foot">
         <a class="cta whatsapp" target="_blank" rel="noopener" href="https://wa.me/5547999999999?text=${encodeURIComponent(`Olá, tenho interesse no produto: ${p.name} – ${currency(p.price)} (Aurum).`)}">WhatsApp</a>
-        <a class="cta instagram" target="_blank" rel="noopener" href="https://instagram.com/">Instagram</a>
+        <a class="cta instagram" target="_blank" rel="noopener" href="https://www.instagram.com/aurum_produtos">Instagram</a>
       </div>
     `;
     g.appendChild(c);
